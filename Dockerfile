@@ -1,2 +1,2 @@
-FROM blueedge/win11react:latest
-EXPOSE 3000
+FROM alexwhen/docker-2048
+EXPOSE 80
